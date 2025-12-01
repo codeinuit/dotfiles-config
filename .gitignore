@@ -4,3 +4,4 @@
 !/.gitignore
 !/tmux/
 !/nvim/
+!*.sh
